@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tuney App</string>
+    <string name="default_song_name">"M.anifest - Don't Follow Me</string>
+    <string name="default_artist_name">M.anifest</string>
+    <string name="music_info">Music Info</string>
+    <string name="music_play_button">Music Play Button</string>
+    <string name="music_library">Music Library</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="photo_by_chris_dunne">Photo by Chris Dunne</string>
+    <string name="default_song_end_count">3:02</string>
+    <string name="default_song_initial_count">0:00</string>
+    <string name="total_plays">175k</string>
+    <string name="total_likes">2,005</string>
+    <string name="total_shares">348</string>
+    <string name="total_comments">50 comments on this track</string>
+    <string name="dummy_licence_text">This license agreement is made between Tuney App
+        and the copyright owner(s) Copyright Tuney, in regards to the musical composition embodied in the
+        The Work mobile application the 07/09/2018 of the signing of this agreement set forth below.
+    </string>
+    <string name="copyright">© 2018 Tuney App.</string>
+    <string name="song_name_bambi">Bambi || NaijaVibes</string>
+    <string name="artist_name_bambi">Bambi</string>
+    <string name="song_name_warn_dem">Warn Dem (Prod. By Da Maker)</string>
+    <string name="artist_name_shatta_wale">Shatta Wale</string>
+    <string name="song_name_single">Single and Free</string>
+    <string name="artist_name_kofi">Kofi Kinaata</string>
+    <string name="song_name_sweetio">Sweetio (Feat. Sarkodie)</string>
+    <string name="artist_name_raquel">Raquel</string>
+    <string name="song_name_mary">Mary</string>
+    <string name="artist_name_sarkodie">Sarkodie</string>
+    <string name="song_name_akwaaba">Akwaaba</string>
+    <string name="artist_name_eazi">Mr Eazi ft Patapaa</string>
+    <string name="song_name_abena">Abena</string>
+    <string name="artist_name_king">King Promise</string>
+    <string name="song_name_vibe">We Dey Vibe</string>
+    <string name="artist_name_r2bees">R2bees</string>
+    <string name="song_name_woara">Woara (Prod. By Shotton blinks)</string>
+    <string name="artist_name_kwesi">Kwesi Arthur</string>
+    <string name="song_name_do">Do The Dance</string>
+    <string name="artist_name_eddie">Eddie Khae</string>
+    <string name="song_name_uber">Uber Driver</string>
+    <string name="artist_name_wendy">Wendy Shay</string>
+    <string name="song_name_me_ne_woa">Me Ne Woa ft. King Promise</string>
+    <string name="artist_name_manifest">M.anifest</string>
+    <string name="song_name_hold_on">Hold on</string>
+    <string name="artist_name_sir_kolby">Sir Kolby</string>
+    <string name="song_name_dont_follow_me">M.anifest - Don\'t Follow Me</string>
+</resources>
