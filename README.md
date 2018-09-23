@@ -9,5 +9,5 @@ The following screens of the app are:
 **Song Info**
 
 ## Install APK
-This is the link to the APK file
-https://drive.google.com/file/d/1bFoUJavprY3oLRFDPDciGm3gAJBI9XDI/view?usp=sharing
+This is the link to the app-debug.apk file
+https://drive.google.com/file/d/18d7j-IScBs7pj-WxIqZqewO2jgKI81on/view?usp=sharing
